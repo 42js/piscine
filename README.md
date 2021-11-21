@@ -1,7 +1,7 @@
 <h1 align="center">JS Piscine</h1>
-<h4 align="center">🔥 Javascript crunch course from scratch</h4>
+<h4 align="center">🔥 JavaScript crunch course from scratch</h4>
 
-42 Cadet들이 만드는 Javasciprt 단기 교육과정, 피씬(Piscine) 프로젝트입니다
+42 Cadet들이 만드는 JavaScript 단기 교육과정, 피씬(Piscine) 프로젝트입니다
 
 ## 🏊‍♀️ Piscine이란?
 
